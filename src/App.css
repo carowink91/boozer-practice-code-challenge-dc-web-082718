@@ -26,3 +26,8 @@
   from { transform: rotate(0deg); }
   to { transform: rotate(360deg); }
 }
+.form{
+  position: absolute;
+  right: 0px;
+  top: 0px;
+}
